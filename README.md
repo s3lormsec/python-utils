@@ -1,4 +1,4 @@
-## Password Strength Checker
+
 
 A simple Python script that checks password strength based on:
 - Length
@@ -10,4 +10,4 @@ A simple Python script that checks password strength based on:
 Usage:
 ```bash
 python3 password_checker.py
-# python-utils
+
